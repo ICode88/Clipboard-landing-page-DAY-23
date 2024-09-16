@@ -184,6 +184,7 @@ button:hover {
     margin: 0 auto;
     gap: 2rem;
     margin-top: 6rem;
+    padding-bottom: 6rem;
   }
 
   .primary {
@@ -213,7 +214,7 @@ button:hover {
   }
   .img-computer {
     background: url(images/image-computer.png) no-repeat center center / contain;
-    height: 62rem;
+    height: 60rem;
     width: 78rem;
     margin-left: -3rem;
   }
@@ -223,7 +224,7 @@ button:hover {
   }
   .img-devices {
     background: url(images/image-devices.png) no-repeat center center / contain;
-    height: 72rem;
+    height: 84rem;
     width: 84rem;
     margin-top: 4rem;
   }
