@@ -170,7 +170,7 @@ button:hover {
 
   }
   .logo {
-     margin-bottom: 4rem;
+     margin-bottom: 3rem;
     margin-top: -2rem;
   }
   .title p {
@@ -183,8 +183,8 @@ button:hover {
     max-width: 50rem;
     margin: 0 auto;
     gap: 2rem;
-    margin-top: 6rem;
-    padding-bottom: 6rem;
+    margin-top: 4rem;
+    padding-bottom: 4rem;
   }
 
   .primary {
@@ -225,8 +225,9 @@ button:hover {
   .img-devices {
     background: url(images/image-devices.png) no-repeat center center / contain;
     height: 84rem;
-    width: 84rem;
-    margin-top: 4rem;
+    width: 92rem;
+    margin-bottom: -4rem;
+    margin-top: 0;
   }
   .tools-1,
   .tools-2 {
