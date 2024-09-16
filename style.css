@@ -170,7 +170,8 @@ button:hover {
 
   }
   .logo {
-    margin-bottom: 2rem;
+     margin-bottom: 4rem;
+    margin-top: -2rem;
   }
   .title p {
     margin: 0 auto;
@@ -207,7 +208,7 @@ button:hover {
     margin-right: 10rem;
   }
   .img-wrapper {
-    margin-top: 0;
+    margin-top: -2rem;
     margin-bottom: 0;
   }
   .img-computer {
@@ -222,8 +223,9 @@ button:hover {
   }
   .img-devices {
     background: url(images/image-devices.png) no-repeat center center / contain;
-    height: 62rem;
-    width: 78rem;
+    height: 72rem;
+    width: 84rem;
+    margin-top: 4rem;
   }
   .tools-1,
   .tools-2 {
