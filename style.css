@@ -227,7 +227,7 @@ button:hover {
     background: url(images/image-devices.png) no-repeat center center / contain;
     height: 84rem;
     width: 92rem;
-    margin-bottom: -4rem;
+    margin-bottom: -12rem;
     margin-top: 0;
   }
   .tools-1,
@@ -249,6 +249,7 @@ button:hover {
     width: 80%;
     margin: 0 auto;
     padding-top: 2rem;
+    margin-top: -6rem;
   }
   .footer-left {
     display: flex;
