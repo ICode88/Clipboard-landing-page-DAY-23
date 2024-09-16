@@ -217,7 +217,7 @@ button:hover {
     height: 60rem;
     width: 78rem;
     margin-left: -3rem;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
   }
   .sub-title p {
     margin-top: 1rem;
@@ -227,7 +227,7 @@ button:hover {
     background: url(images/image-devices.png) no-repeat center center / contain;
     height: 84rem;
     width: 92rem;
-    margin-bottom: -12rem;
+    margin-bottom: -14rem;
     margin-top: 0;
   }
   .tools-1,
